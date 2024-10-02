@@ -44,18 +44,18 @@ namespace Karakteristike
             lo.WaitOne();
             try
             {
-                Console.WriteLine($"TO: {GetEmail()}"); // Get the email of the customer
+                Console.WriteLine($"TO: {GetEmail()}"); 
                 Console.WriteLine("Subject: Osvareni bodovi");
                 Console.WriteLine("Postovani,");
                 Console.WriteLine($"Prilikom posljednje kupovine ste ostvarili {bodovi} bodova, " +
                                   $"tako da trenutno vas ukupan broj bodova iznosi {GetBodoviUkupno()}.");
                 Console.WriteLine("Zahvaljujemo vam na kupovini.");
                 Console.WriteLine("Puno pozdrava");
-                Console.WriteLine(Environment.NewLine); // Replace with your variable `crt`
+                Console.WriteLine(Environment.NewLine); 
             }
             finally
             {
-                lo.ReleaseMutex(); // Ensure the mutex is released
+                lo.ReleaseMutex(); 
             }
         }
         public string GetEmail()
