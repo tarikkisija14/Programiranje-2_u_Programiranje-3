@@ -1,0 +1,14 @@
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\bin\Debug\net8.0\Karakteristike.exe
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\bin\Debug\net8.0\Karakteristike.deps.json
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\bin\Debug\net8.0\Karakteristike.runtimeconfig.json
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\bin\Debug\net8.0\Karakteristike.dll
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\bin\Debug\net8.0\Karakteristike.pdb
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.AssemblyInfoInputs.cache
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.AssemblyInfo.cs
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.dll
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\refint\Karakteristike.dll
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.pdb
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\Karakteristike.genruntimeconfig.cache
+C:\Users\tarik\source\repos\Karakteristike\Karakteristike\obj\Debug\net8.0\ref\Karakteristike.dll
