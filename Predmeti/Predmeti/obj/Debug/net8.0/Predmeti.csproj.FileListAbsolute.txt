@@ -1,0 +1,14 @@
+C:\Users\tarik\source\repos\Predmeti\Predmeti\bin\Debug\net8.0\Predmeti.exe
+C:\Users\tarik\source\repos\Predmeti\Predmeti\bin\Debug\net8.0\Predmeti.deps.json
+C:\Users\tarik\source\repos\Predmeti\Predmeti\bin\Debug\net8.0\Predmeti.runtimeconfig.json
+C:\Users\tarik\source\repos\Predmeti\Predmeti\bin\Debug\net8.0\Predmeti.dll
+C:\Users\tarik\source\repos\Predmeti\Predmeti\bin\Debug\net8.0\Predmeti.pdb
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.AssemblyInfoInputs.cache
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.AssemblyInfo.cs
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.dll
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\refint\Predmeti.dll
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.pdb
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\Predmeti.genruntimeconfig.cache
+C:\Users\tarik\source\repos\Predmeti\Predmeti\obj\Debug\net8.0\ref\Predmeti.dll
