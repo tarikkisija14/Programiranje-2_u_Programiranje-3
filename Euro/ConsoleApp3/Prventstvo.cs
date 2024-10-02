@@ -52,7 +52,7 @@ namespace ConsoleApp3
                 }
                 Console.WriteLine("Puno srece u nastavku susreta.");
                 Console.WriteLine("Neka bolji tim pobijedi.");
-                Console.WriteLine(Environment.NewLine); // Replace with your variable `crt`
+                Console.WriteLine(Environment.NewLine);
             }
             finally
             {
