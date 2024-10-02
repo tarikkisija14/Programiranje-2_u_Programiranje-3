@@ -136,11 +136,11 @@ namespace Predmeti
 
             if (jasminPolaznik != null)
             {
-                // Attempt to add Pitanje to Kandidat
+               
                 if (jasminPolaznik.AddPitanje(Predmet.PRI, dinamickaMemorija))
                     Console.WriteLine("Pitanje uspjesno dodano!");
 
-                // Shouldn't add visenitnoProgramiranje because there are not 3 questions for PRI
+                
                 if (!jasminPolaznik.AddPitanje(Predmet.PRII, visenitnoProgramiranje))
                     Console.WriteLine("Pitanje NIJE uspjesno dodano!");
 
@@ -153,16 +153,16 @@ namespace Predmeti
                 if (jasminPolaznik.AddPitanje(Predmet.PRI, sortiranjeNiza))
                     Console.WriteLine("Pitanje uspjesno dodano!");
 
-                // Sorting should not be added again
+                
                 if (!jasminPolaznik.AddPitanje(Predmet.PRI, sortiranjeNiza))
                     Console.WriteLine("Pitanje NIJE uspjesno dodano!");
 
-                // Disable the candidate and try to add a question (should fail since the candidate is not active)
+             
                 jasmin.SetAktivan(false);
                 if (!jasminPolaznik.AddPitanje(Predmet.PRII, polimorfizam))
                     Console.WriteLine("Pitanje NIJE uspjesno dodano!");
 
-                // Print all details about Kandidat
+               
                 Console.WriteLine(jasminPolaznik.ToString());
             }
 
@@ -170,8 +170,8 @@ namespace Predmeti
             {
                 Task.Run(async () =>
                 {
-                    await Task.Delay(2000); // 2 seconds delay
-                    Console.WriteLine(emailContent); // Simulate sending email
+                    await Task.Delay(2000);
+                    Console.WriteLine(emailContent); 
                 });
             }
 
