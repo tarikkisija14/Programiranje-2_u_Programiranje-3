@@ -129,7 +129,7 @@ namespace ConsoleApp3
 
             try
             {
-                // Pokušaj dodavanja istog igrača
+              
                 BIH.AddIgrac(denis); // onemoguciti dodavanje istih igraca - provjeravati ID
             }
             catch (Exception ex)
@@ -144,7 +144,7 @@ namespace ConsoleApp3
             euro2024.AddUtakmicu(BIH, ENG);
             try
             {
-                euro2024.AddUtakmicu(BIH, ENG); // Prevent re-matching the same countries during the tournament
+                euro2024.AddUtakmicu(BIH, ENG); 
             }
             catch (Exception obj)
             {
