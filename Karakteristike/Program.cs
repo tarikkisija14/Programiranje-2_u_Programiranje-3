@@ -7,16 +7,16 @@
         {
             const int KolekcijaTestSize = 9;
 
-            // Creating an instance of Kolekcija with duplication not allowed (false)
+            
             Kolekcija<int, int> Kolekcija1 = new Kolekcija<int, int>(false);
 
-            // Adding elements to Kolekcija1
+           
             for (int i = 0; i < KolekcijaTestSize - 1; i++)
-                Kolekcija1.AddElement(i, i); // Adding values to Kolekcija
+                Kolekcija1.AddElement(i, i); 
 
             try
             {
-                // If duplicate elements are not allowed, AddElement should throw an exception
+                
                 Kolekcija1.AddElement(3, 3);
             }
             catch (Exception err)
