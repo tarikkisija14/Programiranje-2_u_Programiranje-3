@@ -1,0 +1,14 @@
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\bin\Debug\net8.0\Kriteriji.exe
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\bin\Debug\net8.0\Kriteriji.deps.json
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\bin\Debug\net8.0\Kriteriji.runtimeconfig.json
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\bin\Debug\net8.0\Kriteriji.dll
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\bin\Debug\net8.0\Kriteriji.pdb
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.AssemblyInfoInputs.cache
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.AssemblyInfo.cs
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.dll
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\refint\Kriteriji.dll
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.pdb
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\Kriteriji.genruntimeconfig.cache
+C:\Users\tarik\source\repos\Kriteriji\Kriteriji\obj\Debug\net8.0\ref\Kriteriji.dll
