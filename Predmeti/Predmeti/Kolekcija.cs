@@ -86,7 +86,7 @@ namespace Predmeti
                 {
                     if (_elementi1[i].Equals(el1))
                     {
-                        _elementi2[i] = value; // Update the element in T2
+                        _elementi2[i] = value;
                         return;
                     }
                 }
